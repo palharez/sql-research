@@ -4,7 +4,7 @@ A personal research repo where I study SQL, document what I learn, and keep runn
 
 ## Goal
 
-The goal is simple: **learn SQL deeply** (not just syntax), including **data modeling, query performance, and real-world patterns**—and keep a clean archive of notes + experiments I can reuse later.
+The goal is simple: **learn SQL deeply** (not just syntax), including data modeling, query performance, and real-world patterns and keep a clean archive of notes + experiments I can reuse later.
 
 ## What you'll find here
 
