@@ -31,7 +31,8 @@ this is the list of resources I'm following. I keep them here so the repo explai
 
 ### Courses / Playlists
 
-- [Learn SQL in Y](https://learnxinyminutes.com/sql/)
+- [Learn SQL in Y](https://learnxinyminutes.com/sql/)-
+- [Learn SQL in Code Academy](https://www.codecademy.com/learn/learn-sql)
 - [SQL Roadmap](https://roadmap.sh/sql)
 
 ### Exercises lists
